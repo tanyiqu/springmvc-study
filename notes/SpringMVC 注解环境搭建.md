@@ -116,7 +116,7 @@
 
 ### 配置springmvc配置文件
 
-在resources文件夹创建**springmvc-servlet.xml**
+在**resources**文件夹创建**springmvc-servlet.xml**
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
